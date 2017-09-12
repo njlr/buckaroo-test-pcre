@@ -1,0 +1,7 @@
+{
+  "name": "buckaroo-test-pcre",
+  "dependencies": {
+    "pcre/pcre": "8.36.0",
+    "google/gtest": "1.8.0"
+  }
+}
